@@ -7,3 +7,6 @@ Check out his site and Youtube channel for great Linux tipps and tutorials
 - https://gitlab.com/dwt1
 - https://distrotube.com/
 - https://youtube.com/DistroTube
+
+## Paginas para wallpapers
+https://wallhere.com/
